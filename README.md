@@ -1,4 +1,4 @@
-<h3 align="center">Affinity eCommerce</h3>
+<h3 align="center">Mass Streaming</h3>
 
 <div align="center">
 
