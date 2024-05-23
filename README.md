@@ -21,7 +21,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Use this project as a guide for your full stack website. This project is a video streaming web app being built using the MERN Stack and Material UI.
+Use this project as a guide for your full-stack website. This project is a video streaming web app being built using the MERN Stack and Material UI.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -37,7 +37,7 @@ npm -v
 1. Clone the repository
 
 ```
-git clone https://github.com/rawda-developer/Mass-Streaming
+git clone https://github.com/rawdaymohamed/Mass-Streaming
 cd Mass-Streaming
 ```
 
